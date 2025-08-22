@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anish 👋
 
-<!--
-**anish155/anish155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer interested in web development, open-source contribution, and AI/ML.  
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: Next.js and GraphQL
+- 🔭 I’m working on: My portfolio website and open-source projects
+- 👯 Open to collaborate on interesting web projects
+- 💬 Ask me about: JavaScript, React, Node.js, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools:** Git, Docker, VS Code
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/anish155)
+- Email: anish155@example.com
+
+## 🧑‍💻 Projects
+Check out some of my pinned repositories below!
+
+---
+
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish155&show_icons=true&theme=radical)
