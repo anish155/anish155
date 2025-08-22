@@ -15,8 +15,8 @@ Welcome to my GitHub profile!
 - **Tools:** Git, Docker, VS Code
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/anish155)
-- Email: anish155@example.com
+- [LinkedIn](https://www.linkedin.com/in/anish-tandukar-45a812368/)
+- Email: anishtandukar3@gmail.com
 
 ## 🧑‍💻 Projects
 Check out some of my pinned repositories below!
